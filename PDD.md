@@ -2,8 +2,6 @@
 
 ## Problem Statements
 
-College students often struggle with buying expensive textbooks. College students within a chosen radius are able to exchange books or buy them cheaper to gain access to textbooks and decrease piracy.
-
 College students can use our solution to help them buy and sell used textbooks for better prices than are offered by existing e-retailers. As a result of lower buying and higher selling prices, students are more likely to purchase and read textbooks, increasing their grades and overall knowledge in the process.
 
 ## Customer
