@@ -14,7 +14,7 @@ College students can use our solution to help them buy and sell used textbooks f
 
 ### Other customer(s) or stakeholder(s)
 -   Stakeholder: Campus Administrators
--   Competitors: Online Bookstores, Publishers
+-   Competitors: Campus Bookstores, Online Bookstores, Publishers
 
 ## Application type (web app, mobile, website, native client, …)
 Website Application
@@ -26,7 +26,7 @@ Website Application
 | Fenglian Li | Java | NA | NA | NA |
 | Calvin Teng | Python, HTML/CSS | NA | NA | NA |
 | Adrian Grabowski | Java, Python, HTML/CSS | Bootstrap | NA | MySQL |
-| Brandon Bennitt | Python, C++, Java | Bootstrap | Flask (very little) | Postgresql |
+| Brandon Bennitt | Python, C++, Java, HTML/CSS | Bootstrap | Flask (very little) | Postgresql |
 | Ali Guzelyel | Java, Python, C#,HTML/CSS | React | .Net Core | Postgresql |
 
 #### Client Tech
@@ -103,7 +103,8 @@ Lucy is a rising junior in college and is looking forward to her upcoming semest
 * Respect needs to be present at all times.
 
 ### Unacceptable behavior
-...
+* Removing or changing code related to previous stories without informing the original developer who wrote the code
+* Being a dictator of the repository
 
 ### How will we productively solve disagreement
 * If 100% of the group does not agree with some decision after 10 minutes of discussion, a poll will be made
