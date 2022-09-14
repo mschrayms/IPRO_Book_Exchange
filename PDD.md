@@ -83,6 +83,7 @@ Lucy is a rising junior in college and is looking forward to her upcoming semest
 | Calvin Teng | cteng2@hawk.iit.edu | NA | UTC+8 | 13 |
 | Brandon Bennitt | bbennitt@hawk.iit.edu | NA | Chicago | 0 |
 | Ali Guzelyel | aguzelyel@hawk.iit.edu  | NA | Chicago | 0 |
+| Adrian Grabowski | agrabowski@hawk.iit.edu  | NA | Chicago | 0 |
 
 ## Team Working Agreement (All team members)
 ### What do we want to accomplish/learn together?
