@@ -94,8 +94,7 @@ Lucy is a rising junior in college and is looking forward to her upcoming semest
 * When we are not meeting together we will use the following tool/tech for communications: Discord
 
 ### Requested Approach/Behavior 
-* If we need to meet outside of class we have found a mutually agreeable time at: (Not Decided Yet)
-
+* If we need to meet outside of class we will refer to the group availability table at: https://www.when2meet.com/?16700807-Ax5JR for deciding a time to meet.
 * Any change to the repository needs to be communicated on Discord
 * Each story should be a separate branch. Before merging the branches, the story owner requests a Pull Request. After PR, the story owner can merge the branch.
 * Acknowledge everyone’s work.
