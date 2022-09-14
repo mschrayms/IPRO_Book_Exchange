@@ -17,7 +17,7 @@ College students can use our solution to help them buy and sell used textbooks f
 -   Competitors: Campus Bookstores, Online Bookstores, Publishers
 
 ## Application type (web app, mobile, website, native client, …)
-Website Application
+Website
 
 ### Tech stack
 
@@ -92,9 +92,9 @@ Lucy is a rising junior in college and is looking forward to her upcoming semest
 * We will use Github and keep items updated as progress is made
 * If we need to meet outside of class we will use the following tool/tech for meetings: Discord/Zoom
 * When we are not meeting together we will use the following tool/tech for communications: Discord
+* If we need to meet outside of class we will refer to the group availability table at: https://www.when2meet.com/?16700807-Ax5JR for deciding a time to meet.
 
 ### Requested Approach/Behavior 
-* If we need to meet outside of class we will refer to the group availability table at: https://www.when2meet.com/?16700807-Ax5JR for deciding a time to meet.
 * Any change to the repository needs to be communicated on Discord
 * Each story should be a separate branch. Before merging the branches, the story owner requests a Pull Request. After PR, the story owner can merge the branch.
 * Acknowledge everyone’s work.
@@ -104,6 +104,7 @@ Lucy is a rising junior in college and is looking forward to her upcoming semest
 ### Unacceptable behavior
 * Removing or changing code related to previous stories without informing the original developer who wrote the code
 * Being a dictator of the repository
+* Not being present during group collaboration and sprint review without prior notice
 
 ### How will we productively solve disagreement
 * If 100% of the group does not agree with some decision after 10 minutes of discussion, a poll will be made
