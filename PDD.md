@@ -111,17 +111,17 @@ Lucy is a rising junior in college and is looking forward to her upcoming semest
 
 | Week | Sprint Leader |
 | --------  | ------------------- |
-| 1 - Problem Framing                                 | Team member 1 |
-| 2 - Problem Framing                                 | Team member 1 |
-| 3 - Problem Framing                                 | Team member 2 |
-| 4 - Problem Framing                                 | Team member 2 |
-| 5 - Think, build, test, and demo for midterm        | Team member 3 |
-| 6 - Think, build, test, and demo for midterm        | Team member 3 |
-| 7 - Think, build, test, and demo for midterm        | Team member 4 |
-| 8 - Think, build, test, and demo for midterm        | Team member 4 |
+| 1 - Problem Framing                                 | Fenglian |
+| 2 - Problem Framing                                 | Fenglian |
+| 3 - Problem Framing                                 | Ali |
+| 4 - Problem Framing                                 | Ali |
+| 5 - Think, build, test, and demo for midterm        | Brandon |
+| 6 - Think, build, test, and demo for midterm        | Brandon |
+| 7 - Think, build, test, and demo for midterm        | Adrian |
+| 8 - Think, build, test, and demo for midterm        | Adrian |
 | 9 - Thanksgiving Break
-| 10 - Think, build, test, and demo for final	      | Team member 5 |
-| 11 - Think, build, test, and demo for final         | Team member 5 |
-| 12 - Think, build, test, and demo for final         | Team member 1 |
-| 13 - Presentation dry run                           | Team member 1 |
-| 14 - Presentation                                   | Team member 2 |
+| 10 - Think, build, test, and demo for final	      | Calvin |
+| 11 - Think, build, test, and demo for final         | Calvin |
+| 12 - Think, build, test, and demo for final         | Fenglian |
+| 13 - Presentation dry run                           | Fenglian |
+| 14 - Presentation                                   | Ali |
