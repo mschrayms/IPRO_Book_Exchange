@@ -1,4 +1,6 @@
 # IPRO_Book_Exchange
 
-https://docs.google.com/document/d/1OwfzTCNzXglBLIYLMqMTGXkWUO2PZKI9Wpg0M4CWe-Y/edit?usp=sharing
+This is the repository for group E in the Global Software Development IPRO class Fall 2022.
+
+## Project Description
 
