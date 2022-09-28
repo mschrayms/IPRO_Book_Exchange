@@ -17,6 +17,12 @@
 
 ## Week 6 ##
 
+- Brandon is sprint review lead
+- Look at improving acceptance criterion
+- Mid-term presentation upcoming Oct 11
+- Consider labels to identify key stories for the mid-term
+- Sprint lead please lead the team in their first retro
+
 ## Week 7 ##
 
 ## Week 8 ##
